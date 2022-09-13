@@ -1,0 +1,8 @@
+a{
+  margin-left: 10px;
+}
+
+nav .active{
+  color: red;
+  font-size: 18px;
+}
